@@ -388,6 +388,17 @@ footer {
   padding-left: 50px;
 }
 
+
+/* Style for references (bibliography) section using csl options */
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0.5em;
+  margin-left:2em;
+  text-indent:-2em;
+}
+
+
+
 @media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;
